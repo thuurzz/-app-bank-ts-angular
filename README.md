@@ -1,1 +1,1 @@
-# -app-bank-ts-angular
+# app-bank-ts-angular
